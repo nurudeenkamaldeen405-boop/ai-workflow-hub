@@ -1,2 +1,2 @@
 # ai-workflow-hub
-This is for scalping two AI tool 
+This is for scalping two AI tools
